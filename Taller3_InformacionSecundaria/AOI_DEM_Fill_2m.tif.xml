@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20221205</CreaDate><CreaTime>22540600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\Fill" Date="20221205" Time="225406">Fill AOI_DEM_2m.tif "C:\Daniel Data\CartoGeo\RASTER\AOI_DEM_Fill_2m.tif" #</Process></lineage></DataProperties></Esri></metadata>
